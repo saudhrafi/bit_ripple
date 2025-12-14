@@ -1,1 +1,1 @@
-# bit_ripple
+# FourBitRipple
